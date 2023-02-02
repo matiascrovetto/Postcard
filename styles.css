@@ -1,10 +1,7 @@
 body {
 	background: black;
 }
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
+
 .postcard {
 	background: white;
 	width: 400px;
@@ -42,4 +39,13 @@ input {
 
 button {
 	background-color: grey;
+}
+
+.info {
+	margin-left: 15px;
+}
+
+.info {
+	margin: 10px;
+	margin-top: 20px;
 }
